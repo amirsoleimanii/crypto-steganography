@@ -1,0 +1,9 @@
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\obj\Debug\Reciever.csprojResolveAssemblyReference.cache
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\obj\Debug\Reciever.Form1.resources
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\obj\Debug\Reciever.Properties.Resources.resources
+C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp2\Reciever\WindowsFormsApp2\obj\Debug\Reciever.csproj.GenerateResource.Cache
