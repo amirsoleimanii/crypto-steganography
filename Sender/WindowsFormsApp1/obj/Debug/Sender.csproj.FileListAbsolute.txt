@@ -16,3 +16,12 @@ C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp1\Sender\WindowsFormsApp1\
 C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp1\Sender\WindowsFormsApp1\obj\Debug\Sender.Form1.resources
 C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp1\Sender\WindowsFormsApp1\obj\Debug\Sender.Properties.Resources.resources
 C:\Users\Amir Soleimani\Desktop\Crypto\WindowsFormsApp1\Sender\WindowsFormsApp1\obj\Debug\Sender.csproj.GenerateResource.Cache
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\obj\Debug\Sender.Form1.resources
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\obj\Debug\Sender.Properties.Resources.resources
+C:\Users\Amir Soleimani\Desktop\HW3-Crypto\Sender\WindowsFormsApp1\obj\Debug\Sender.csproj.GenerateResource.Cache

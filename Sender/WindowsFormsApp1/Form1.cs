@@ -25,7 +25,7 @@ namespace Sender
             pm = txtbHost.Text;
             UdpClient udpClient = new UdpClient();
             udpClient.DontFragment = true;
-            udpClient.Connect(txtbHost.Text, 8080);
+            udpClient.Connect("localhost", 8080);
             Byte[] senddata = Encoding.ASCII.GetBytes("Hello World");
 
             for (int i = 0; i < pm.Length; i++)
